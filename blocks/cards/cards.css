@@ -21,6 +21,10 @@
 }
 .cards > ul > li img {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 2/1;
   object-fit: cover;
+}
+
+.cards .cards-card-body p:nth-child(2){
+  font-size: var(--body-font-size-s);
 }
