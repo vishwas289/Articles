@@ -33,5 +33,12 @@
 }
 
 .cmp-matrix{
-  color: red;
+  color: var(--background-color);
+  text-align: center;
+
+}
+
+
+div.section.columns-container{
+  background: var(--link-color);
 }
