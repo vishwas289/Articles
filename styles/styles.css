@@ -13,7 +13,7 @@
  :root {
   /* colors */
   --link-color: #000000;
-  --link-hover-color: #136ff6;
+  --link-hover-color: red;
   --background-color: #fff;
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
