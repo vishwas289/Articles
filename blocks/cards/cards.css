@@ -28,3 +28,7 @@
 .cards .cards-card-body p:nth-child(2){
   font-size: var(--body-font-size-s);
 }
+
+div.section.cards-container{
+  padding: 100px 150px;
+}
