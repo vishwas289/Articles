@@ -38,9 +38,18 @@
 
 }
 
+.cmp-cardimage{
+  color: var(--background-color);
+}
+
 
 div.section.columns-container{
   background: var(--link-color);
+}
+
+div.columns.cmp-cardimage.block p:nth-child(1){
+  font-size: 3rem;
+  color: red;
 }
 
 
