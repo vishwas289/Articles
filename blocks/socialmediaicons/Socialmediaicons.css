@@ -1,3 +1,14 @@
-.cmp-social{
+div.socialmediaicons.cmp-social.block div:nth-child(1){
+    display: flex;
+    text-align: center;
+    gap: 5rem;
     align-items: center;
 }
+
+
+div.section.socialmediaicons-container{
+    display: flex;
+    align-items: center;
+}
+
+
